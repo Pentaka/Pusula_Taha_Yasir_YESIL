@@ -13,7 +13,8 @@ Bu projede Jupyter Notebook kullanılarak veri analizi ve modelleme yapılmaktad
 - Veri görselleştirme için grafiklerin oluşturulması
 - Korelasyon analizi
   
-Kodda pipeline mevcuttur. Gerekli kütüphaneler yüklendikten sonra tüm blokları çalıştırmanız yeterli olacaktır.
+Kodda pipeline mevcuttur. Gerekli kütüphaneler yüklendikten sonra tüm blokları çalıştırmanız yeterli olacaktır.  
+
 Veri, analiz ve modelleme için işlemeye hazır hale getirilmiştir.
 
 ## Gerekli Kütüphaneler
