@@ -1,5 +1,6 @@
 # Pusula_Taha_Yasir_YESIL
-Taha Yasir YEŞİL
+Taha Yasir YEŞİL  
+
 E-posta: tahayesil4040@gmail.com
 
 ## Proje Açıklaması
